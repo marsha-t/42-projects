@@ -18,7 +18,7 @@ _TypeScript, Fastify, Docker, Nginx_
 HTTP/1.1 server in C++98 using non-blocking sockets and an event-driven architecture.  
 _Sockets, HTTP protocol, request parsing, concurrency_
 
-**[Leaffliction (in progress)](https://github.com/marsha-t/leaffliction)**  
+**[Leaffliction](https://github.com/marsha-t/leaffliction)**  
 Computer vision project building an end-to-end image classification pipeline for plant disease recognition.
 _Python, PyTorch, CNNs, image processing_
 
