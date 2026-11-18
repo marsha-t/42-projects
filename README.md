@@ -53,7 +53,7 @@ Projects and explorations beyond the core 42 curriculum.
 | [ft_linear_regression](https://github.com/marsha-t/ft_linear_regression) | Linear regression implemented from scratch using batch gradient descent to predict car prices from mileage | Machine Learning | Python, NumPy, Linear Regression, Gradient Descent | Completed · Pending evaluations |
 | Matrix | Linear algebra library implementing vector and matrix operations from first principles | Mathematics | Python, Linear Algebra, Vectors, Matrices | In progress |
 | DSLR | Data analysis and multiclass logistic regression implemented from scratch to classify Hogwarts houses | Machine Learning | Python, NumPy, Statistics, Logistic Regression, Optimisation | In progress |
-| [Leaffliction](https://github.com/marsha-t/leaffliction) | Image classification pipeline for plant disease recognition, from data preparation and augmentation to model training and inference | Computer Vision | Python, PyTorch, CNNs, Image Processing | In progress |
+| [Leaffliction](https://github.com/marsha-t/leaffliction) | Image classification pipeline for plant disease recognition, from data preparation and augmentation to model training and inference | Computer Vision | Python, PyTorch, CNNs, Image Processing | Completed |
 
 
 ## From Common Core to Mastery
